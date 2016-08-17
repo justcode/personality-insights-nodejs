@@ -397,10 +397,6 @@ body {
   font-size: 2.44141em;
   font-weight: 700;
   color: #325c80; }
-  @media (min-width: 500px) {
-    .base--h1,
-    .base--STYLED h1 {
-      font-size: 4.20873em; } }
 
 .base--h2,
 .base--STYLED h2 {
